@@ -1,2 +1,2 @@
-# saqlain-muda-gi
+# saqlain-mudagi
 saqlain mudalgi repository
